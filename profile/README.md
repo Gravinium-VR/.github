@@ -1,7 +1,5 @@
 ## Gravinium
 
-We are a team of two working to create new VR experiences blah blah blah. No one wants to hear the corpo talk.
-
 Here on GitHub, you can find our public project boards and anything we decide to open-source.
 
 You can find more info on our website [gravinium.org](https://gravinium.org)
